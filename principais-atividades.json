@@ -1,0 +1,58 @@
+{
+    "Facebook": {
+        "Buscar Conteúdo Divertido": 54.9,
+        "Seguir Marcas e Produtos": 54.3,
+        "Atualizar-se com Notícias": 58.7,
+        "Mensagens para Amigos e Família": 72.6,
+        "Postar ou Compartilhar Fotos/Vídeos": 63.5
+    },
+    "Instagram": {
+        "Buscar Conteúdo Divertido": 64.8,
+        "Seguir Marcas e Produtos": 62.7,
+        "Atualizar-se com Notícias": 52.5,
+        "Mensagens para Amigos e Família": 58.3,
+        "Postar ou Compartilhar Fotos/Vídeos": 70.4
+    },
+    "TikTok": {
+        "Buscar Conteúdo Divertido": 80.3,
+        "Seguir Marcas e Produtos": 44.9,
+        "Atualizar-se com Notícias": 39.0,
+        "Mensagens para Amigos e Família": 17.9,
+        "Postar ou Compartilhar Fotos/Vídeos": 39.4
+    },
+    "LinkedIn": {
+        "Buscar Conteúdo Divertido": 10.0,
+        "Seguir Marcas e Produtos": 24.1,
+        "Atualizar-se com Notícias": 27.7,
+        "Mensagens para Amigos e Família": 11.7,
+        "Postar ou Compartilhar Fotos/Vídeos": 14.7
+    },
+    "Snapchat": {
+        "Buscar Conteúdo Divertido": 35.1,
+        "Seguir Marcas e Produtos": 22.1,
+        "Atualizar-se com Notícias": 21.1,
+        "Mensagens para Amigos e Família": 38.7,
+        "Postar ou Compartilhar Fotos/Vídeos": 42.9
+    },
+    "Twitter": {
+        "Buscar Conteúdo Divertido": 34.9,
+        "Seguir Marcas e Produtos": 35.7,
+        "Atualizar-se com Notícias": 60.6,
+        "Mensagens para Amigos e Família": 19.0,
+        "Postar ou Compartilhar Fotos/Vídeos": 27.2
+    },
+    "Reddit": {
+        "Buscar Conteúdo Divertido": 33.0,
+        "Seguir Marcas e Produtos": 28.7,
+        "Atualizar-se com Notícias": 31.0,
+        "Mensagens para Amigos e Família": 7.4,
+        "Postar ou Compartilhar Fotos/Vídeos": 13.0
+    },
+    "Pinterest": {
+        "Buscar Conteúdo Divertido": 20.9,
+        "Seguir Marcas e Produtos": 36.6,
+        "Atualizar-se com Notícias": 13.3,
+        "Mensagens para Amigos e Família": 6.0,
+        "Postar ou Compartilhar Fotos/Vídeos": 13.6
+    }
+}
