@@ -10,8 +10,8 @@ Existem 5 bases de dados:
 
 - [Número de seguidores por plataforma](https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-seguidores.json)
 
-- [Principais atividades](https://raw.githubusercontent.com/guilhermeonrails/api/main/principais-atividades.json)
-
 - [Principal objetivo do uso das redes](https://raw.githubusercontent.com/guilhermeonrails/api/main/razoes-globais.json)
 
 - [Redes favoritas](https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json)
+
+- [Principais atividades](https://raw.githubusercontent.com/guilhermeonrails/api/main/principais-atividades.json)
