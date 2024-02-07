@@ -1,5 +1,5 @@
 {
-  "quantidade de pessoas conectadas em alguma rede social": 5.04e9,
-  "tempo médio gasto nas redes por dia (horas)": 2.38,
-  "total de pessoas no mundo": 8e9
+  "total_pessoas_conectadas": 5.04e9,
+  "tempo_medio_global_em_horas": 2.38,
+  "quantidade_de_pessoas_no_mundo": 8e9
 }
